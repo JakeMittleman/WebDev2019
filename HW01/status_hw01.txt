@@ -1,0 +1,34 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+- Jake Mittleman
+
+
+2. Which VPS & domain providers did you choose?
+VPS: Vultr
+Domain: Joker
+
+
+3. What domain name did you register?
+Paperdogg.com
+
+
+4. Which parts of this assignment did you have trouble with, if any?
+I had a hard time understanding the DNS portions. What an A frame is, what a CNAME is, and what's the right way to do it. I also struggled with getting the index page to display properly because at some point in the instructions it says to name a folder "main" and then later to refer to it by something other than "main". Perhaps "main" was a placeholder for where your domain name was supposed to go? That was a little unclear, so it took me a bit to figure that out, but I got it.
+
+
+5. Whats the URL for your git repository?
+https://github.com/JakeMittleman/WebDev2019
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
