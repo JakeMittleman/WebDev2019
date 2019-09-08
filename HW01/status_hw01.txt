@@ -15,7 +15,14 @@ Paperdogg.com
 
 
 4. Which parts of this assignment did you have trouble with, if any?
-I had a hard time understanding the DNS portions. What an A frame is, what a CNAME is, and what's the right way to do it. I also struggled with getting the index page to display properly because at some point in the instructions it says to name a folder "main" and then later to refer to it by something other than "main". Perhaps "main" was a placeholder for where your domain name was supposed to go? That was a little unclear, so it took me a bit to figure that out, but I got it.
+I had a hard time understanding the DNS portions. What an A frame is,
+what a CNAME is, and what's the right way to do it. 
+I also struggled with getting the index page to display properly 
+because at some point in the instructions it says to name a folder 
+"main" and then later to refer to it by something other than "main". 
+Perhaps "main" was a placeholder for where your domain name was 
+supposed to go? That was a little unclear, so it took me a bit to 
+figure that out, but I got it.
 
 
 5. Whats the URL for your git repository?
