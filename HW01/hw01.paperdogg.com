@@ -7,7 +7,7 @@ server {
 
 	index hw01.html;
 
-	server_name paperdogg.com www.paperdogg.com;
+	server_name hw01.paperdogg.com;
 
 	location / {
 		try_files $uri $uri/ =404;
