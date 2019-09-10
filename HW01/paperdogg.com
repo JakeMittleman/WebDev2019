@@ -2,7 +2,7 @@ server {
 	listen 80;
 	listen [::]:80;
 
-	root /home/jake/www/paperdogg.com;
+	root /home/jake/www/hw01/paperdogg.com;
 
 	index index.html;
 
